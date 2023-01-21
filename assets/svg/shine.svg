@@ -1,0 +1,72 @@
+<svg width="414" height="169" fill="none" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+        <linearGradient id="a" x1="207" y1="-81" x2="207" y2="153.315" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="b" x1="441.313" y1="153.315" x2="206.998" y2="153.315" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="c" x1="-27.313" y1="153.315" x2="207.002" y2="153.315" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="d" x1="372.689" y1="-12.371" x2="207.004" y2="153.315" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="e" x1="41.315" y1="-12.371" x2="207" y2="153.315" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="f" x1="267.647" y1="-73.016" x2="207.001" y2="153.315" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="g" x1="-19.334" y1="92.669" x2="206.998" y2="153.315" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="h" x1="409.923" y1="36.157" x2="207" y2="153.315" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="i" x1="89.845" y1="-49.608" x2="207.003" y2="153.315" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="j" x1="324.158" y1="-49.608" x2="207.001" y2="153.315" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="k" x1="4.074" y1="36.157" x2="206.998" y2="153.316" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="l" x1="433.332" y1="92.67" x2="207" y2="153.315" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="m" x1="146.357" y1="-73.016" x2="207.002" y2="153.315" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+    </defs>
+    <g opacity=".1" fill-rule="evenodd" clip-rule="evenodd">
+        <path d="M206.999 153.315 191.992-81h15.007v234.315Zm.001 0L222.007-81H207v234.315Z" fill="url(#a)"/>
+        <path d="m206.998 153.315 234.315-15.007v15.007H206.998Zm0 0 234.315 15.007v-15.007H206.998Z" fill="url(#b)"/>
+        <path d="m207.002 153.315-234.315-15.008v15.008h234.315Zm0 0-234.315 15.007v-15.007h234.315Z" fill="url(#c)"/>
+        <path d="M207.004 153.315 383.301-1.759l-10.612-10.612-165.685 165.686Zm0 0L362.078-22.982l10.611 10.611-165.685 165.686Z" fill="url(#d)"/>
+        <path d="M207 153.314 51.927-22.983 41.315-12.37 207 153.314Zm0 .001L30.703-1.759l10.612-10.612L207 153.315Z" fill="url(#e)"/>
+        <path d="M207.008 153.289 253.152-76.9l14.496 3.884-.001.001 14.494 3.884-75.132 222.421-.007.025.003-.013-.004.013.007-.026Z" fill="url(#f)"/>
+        <path d="m206.996 153.314-230.212-46.149 3.884-14.495h-.002l3.884-14.497 222.446 75.141.002.001-.002-.001Z" fill="url(#g)"/>
+        <path d="M207.004 153.312 402.419 23.161l7.504 12.996h-.001l7.504 12.997-210.422 104.158-.004.003.002-.002-.002.001.004-.002Z" fill="url(#h)"/>
+        <path d="M207.002 153.315 76.848-42.105l12.997-7.503 117.157 202.923Zm.001 0L102.842-57.111l-12.996 7.503 117.157 202.923Z" fill="url(#i)"/>
+        <path d="M207.001 153.315 337.155-42.104l-12.997-7.504-117.157 202.923Zm0 0L311.162-57.111l12.996 7.503-117.157 202.923Z" fill="url(#j)"/>
+        <path d="M206.991 153.311 11.577 23.161 4.074 36.157l.001.002-7.503 12.996 210.42 104.158.004.002-.002-.001.004.002-.007-.005Z" fill="url(#k)"/>
+        <path d="m207.004 153.314 222.444-75.14 3.884 14.496h-.001l3.884 14.496-230.213 46.149H207l.004-.001Z" fill="url(#l)"/>
+        <path d="M206.995 153.283 160.852-76.9l-14.496 3.884-14.493 3.884 75.13 222.416.008.031-.003-.016.005.016-.008-.032Z" fill="url(#m)"/>
+    </g>
+    
+</svg>
