@@ -4,6 +4,10 @@ import 'package:test_reting_app/page/profile/view/profile_screen.dart';
 
 void main() {
   runApp(const MyApp());
+  SystemChrome.setSystemUIOverlayStyle(
+    SystemUiOverlayStyle.dark.copyWith(
+        statusBarColor: Colors.white, statusBarBrightness: Brightness.dark),
+  );
 }
 
 class MyApp extends StatelessWidget {
@@ -16,9 +20,6 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         fontFamily: 'SF-Pro-Display',
-        appBarTheme: const AppBarTheme(
-          systemOverlayStyle: SystemUiOverlayStyle.light,
-        ),
       ),
       home: const ProfileScreen(),
     );
